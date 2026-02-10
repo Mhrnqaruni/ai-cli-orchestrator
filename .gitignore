@@ -1,0 +1,19 @@
+# Runtime files (created during execution)
+codex_output.txt
+codex_command.txt
+codex_response.txt
+codex_status.json
+gemini_command.txt
+gemini_response.txt
+gemini_status.json
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
